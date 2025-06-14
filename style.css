@@ -161,7 +161,7 @@
             white-space: nowrap;
             overflow: hidden;
             border-right: 6px solid white;
-            animation: AnimateText 7s steps(80) 10s infinite normal both, BlinkCursor 400ms steps(90) 10s infinite normal;
+            animation: AnimateText 7s steps(80) 1s infinite normal both, BlinkCursor 400ms steps(90) 10s infinite normal;
         }
 
         @keyframes AnimateText {
