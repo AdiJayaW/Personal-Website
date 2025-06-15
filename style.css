@@ -175,6 +175,12 @@
             to { border-color: transparent; }
         }
 
+        @media (max-width: 600px) {
+            .hero-quote {
+            font-size: 15px;
+            max-width: 95vw;}
+        }
+
         .btn {
             padding: 15px 30px;
             border-radius: 25px;
