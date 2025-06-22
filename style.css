@@ -615,6 +615,18 @@
             font-weight: 500;
         }
 
+            .portfolio-link {
+            display: inline-block;
+            margin-top: 30px;
+            padding: 8px 16px;
+            background: rgba(102, 126, 234, 0.2);
+            border-radius: 20px;
+            font-size: 14px;
+            text-decoration: none;
+            color: #8c9ef0;
+        }
+
+
         /* Certificates Section */
         .certificates-grid {
             display: grid;
